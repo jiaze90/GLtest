@@ -17,6 +17,7 @@ u16 USART5_Delay_Count=0;
 u8 Send_Buf[USART1_REC_LEN];
 int main()
 {
+	//123456
 	u8 Send_Choice=0;
 	u8 U1_Sending_flag=0;//上传发送标志位
 	u16 U1_RX_Send_Count=0;
